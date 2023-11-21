@@ -53,7 +53,7 @@
                     <td><?= $selects['warna_mobil']?></td>
                     <td><?= $selects['tipe_mobil']?></td>
                     <td><?= $selects['harga_mobil']?></td>
-                    <td><a href="form_detail_mobil.php?id=<?php echo $selects['id']?>" class="btn btn-primary">Detail</a</td>
+                    <td><a href="form_detail_mobil.php?id=<?php echo $selects['id']?>" class="btn btn-primary">Detail</a></td>
                 </tr>
 
                 <?php
